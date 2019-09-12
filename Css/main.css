@@ -1,0 +1,23 @@
+body{
+  
+    
+}
+main{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+nav {
+    width: 20%;
+    
+}
+section{
+    width: 80%;
+}
+a {
+    text-decoration: none;
+    color:hotpink;
+}
+a:hover{
+    color: black;
+}
